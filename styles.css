@@ -1,0 +1,16 @@
+body {
+  background-color: silver;
+}
+
+#training_button {
+  padding: 2em;
+  margin:  2em;
+  border: dashed;
+  border-color: yellow;
+}
+.meditation {
+  background-image: url(images/golden-way.jpg);
+}
+.last-headings {
+  font: italic small-caps bolder condensed 16px/3 cursive;
+}
