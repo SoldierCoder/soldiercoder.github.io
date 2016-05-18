@@ -8,9 +8,18 @@ body {
   border: dashed;
   border-color: yellow;
 }
+.list-unstyled > a:visited {
+  color: #999;
+}
 .meditation {
   background-image: url(images/golden-way.jpg);
 }
 .last-headings {
   font: italic small-caps bolder condensed 16px/3 cursive;
 }
+
+
+At least one centered element (a footer message can be nice for this)
+A few elements styled using a class
+A different color for visited links
+An element styled with an ID
