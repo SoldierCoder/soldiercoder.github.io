@@ -1,1 +1,5 @@
+spec/
 bower_components
+.rspec
+hamster.rb
+Review_and_Reflect.txt
